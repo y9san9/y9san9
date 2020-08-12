@@ -1,0 +1,1139 @@
+/*!
+ * Language Badge
+ * Copyright 2018      Mikazuki
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/mika-f/language-badge/blob/master/LICENSE)
+ */
+.badge {
+  display: inline-block;
+  padding: .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+}
+
+.badge-1c-enterprise {
+  color: #fff;
+  background-color: #814CCC;
+}
+
+.badge-abap {
+  color: #fff;
+  background-color: #E8274B;
+}
+
+.badge-ags-script {
+  color: #000;
+  background-color: #B9D9FF;
+}
+
+.badge-ampl {
+  color: #000;
+  background-color: #E6EFBB;
+}
+
+.badge-antlr {
+  color: #000;
+  background-color: #9DC3FF;
+}
+
+.badge-api-blueprint {
+  color: #fff;
+  background-color: #2ACCA8;
+}
+
+.badge-apl {
+  color: #fff;
+  background-color: #5A8164;
+}
+
+.badge-asp {
+  color: #fff;
+  background-color: #6a40fd;
+}
+
+.badge-ats {
+  color: #fff;
+  background-color: #1ac620;
+}
+
+.badge-actionscript {
+  color: #fff;
+  background-color: #882B0F;
+}
+
+.badge-ada {
+  color: #fff;
+  background-color: #02f88c;
+}
+
+.badge-agda {
+  color: #fff;
+  background-color: #315665;
+}
+
+.badge-alloy {
+  color: #fff;
+  background-color: #64C800;
+}
+
+.badge-angelscript {
+  color: #000;
+  background-color: #C7D7DC;
+}
+
+.badge-applescript {
+  color: #fff;
+  background-color: #101F1F;
+}
+
+.badge-arc {
+  color: #fff;
+  background-color: #aa2afe;
+}
+
+.badge-aspectj {
+  color: #fff;
+  background-color: #a957b0;
+}
+
+.badge-assembly {
+  color: #fff;
+  background-color: #6E4C13;
+}
+
+.badge-autohotkey {
+  color: #fff;
+  background-color: #6594b9;
+}
+
+.badge-autoit {
+  color: #fff;
+  background-color: #1C3552;
+}
+
+.badge-ballerina {
+  color: #fff;
+  background-color: #FF5000;
+}
+
+.badge-batchfile {
+  color: #000;
+  background-color: #C1F12E;
+}
+
+.badge-blitzmax {
+  color: #fff;
+  background-color: #cd6400;
+}
+
+.badge-boo {
+  color: #000;
+  background-color: #d4bec1;
+}
+
+.badge-brainfuck {
+  color: #fff;
+  background-color: #2F2530;
+}
+
+.badge-c {
+  color: #fff;
+  background-color: #555555;
+}
+
+.badge-csharp {
+  color: #fff;
+  background-color: #178600;
+}
+
+.badge-cplusplus {
+  color: #fff;
+  background-color: #f34b7d;
+}
+
+.badge-css {
+  color: #fff;
+  background-color: #563d7c;
+}
+
+.badge-ceylon {
+  color: #fff;
+  background-color: #dfa535;
+}
+
+.badge-chapel {
+  color: #fff;
+  background-color: #8dc63f;
+}
+
+.badge-cirru {
+  color: #000;
+  background-color: #ccccff;
+}
+
+.badge-clarion {
+  color: #fff;
+  background-color: #db901e;
+}
+
+.badge-clean {
+  color: #fff;
+  background-color: #3F85AF;
+}
+
+.badge-click {
+  color: #000;
+  background-color: #E4E6F3;
+}
+
+.badge-clojure {
+  color: #fff;
+  background-color: #db5855;
+}
+
+.badge-coffeescript {
+  color: #fff;
+  background-color: #244776;
+}
+
+.badge-coldfusion {
+  color: #fff;
+  background-color: #ed2cd6;
+}
+
+.badge-common-lisp {
+  color: #fff;
+  background-color: #3fb68b;
+}
+
+.badge-common-workflow-language {
+  color: #fff;
+  background-color: #B5314C;
+}
+
+.badge-component-pascal {
+  color: #fff;
+  background-color: #B0CE4E;
+}
+
+.badge-crystal {
+  color: #fff;
+  background-color: #776791;
+}
+
+.badge-cuda {
+  color: #fff;
+  background-color: #3A4E3A;
+}
+
+.badge-d {
+  color: #fff;
+  background-color: #ba595e;
+}
+
+.badge-dm {
+  color: #fff;
+  background-color: #447265;
+}
+
+.badge-dart {
+  color: #fff;
+  background-color: #00B4AB;
+}
+
+.badge-dataweave {
+  color: #fff;
+  background-color: #003a52;
+}
+
+.badge-dogescript {
+  color: #fff;
+  background-color: #cca760;
+}
+
+.badge-dylan {
+  color: #fff;
+  background-color: #6c616e;
+}
+
+.badge-e {
+  color: #000;
+  background-color: #ccce35;
+}
+
+.badge-ecl {
+  color: #fff;
+  background-color: #8a1267;
+}
+
+.badge-eq {
+  color: #fff;
+  background-color: #a78649;
+}
+
+.badge-eiffel {
+  color: #fff;
+  background-color: #946d57;
+}
+
+.badge-elixir {
+  color: #fff;
+  background-color: #6e4a7e;
+}
+
+.badge-elm {
+  color: #fff;
+  background-color: #60B5CC;
+}
+
+.badge-emacs-lisp {
+  color: #fff;
+  background-color: #c065db;
+}
+
+.badge-emberscript {
+  color: #000;
+  background-color: #FFF4F3;
+}
+
+.badge-erlang {
+  color: #fff;
+  background-color: #B83998;
+}
+
+.badge-fsharp {
+  color: #fff;
+  background-color: #b845fc;
+}
+
+.badge-flux {
+  color: #000;
+  background-color: #88ccff;
+}
+
+.badge-factor {
+  color: #fff;
+  background-color: #636746;
+}
+
+.badge-fancy {
+  color: #fff;
+  background-color: #7b9db4;
+}
+
+.badge-fantom {
+  color: #fff;
+  background-color: #14253c;
+}
+
+.badge-forth {
+  color: #fff;
+  background-color: #341708;
+}
+
+.badge-fortran {
+  color: #fff;
+  background-color: #4d41b1;
+}
+
+.badge-freemarker {
+  color: #fff;
+  background-color: #0050b2;
+}
+
+.badge-frege {
+  color: #fff;
+  background-color: #00cafe;
+}
+
+.badge-game-maker-language {
+  color: #fff;
+  background-color: #8fb200;
+}
+
+.badge-genie {
+  color: #fff;
+  background-color: #fb855d;
+}
+
+.badge-gherkin {
+  color: #fff;
+  background-color: #5B2063;
+}
+
+.badge-glyph {
+  color: #000;
+  background-color: #e4cc98;
+}
+
+.badge-gnuplot {
+  color: #000;
+  background-color: #f0a9f0;
+}
+
+.badge-go {
+  color: #fff;
+  background-color: #375eab;
+}
+
+.badge-golo {
+  color: #fff;
+  background-color: #88562A;
+}
+
+.badge-gosu {
+  color: #fff;
+  background-color: #82937f;
+}
+
+.badge-grammatical-framework {
+  color: #fff;
+  background-color: #79aa7a;
+}
+
+.badge-groovy {
+  color: #fff;
+  background-color: #e69f56;
+}
+
+.badge-html {
+  color: #fff;
+  background-color: #e34c26;
+}
+
+.badge-hack {
+  color: #fff;
+  background-color: #878787;
+}
+
+.badge-harbour {
+  color: #fff;
+  background-color: #0e60e3;
+}
+
+.badge-haskell {
+  color: #fff;
+  background-color: #5e5086;
+}
+
+.badge-haxe {
+  color: #fff;
+  background-color: #df7900;
+}
+
+.badge-hy {
+  color: #fff;
+  background-color: #7790B2;
+}
+
+.badge-idl {
+  color: #fff;
+  background-color: #a3522f;
+}
+
+.badge-idris {
+  color: #fff;
+  background-color: #b30000;
+}
+
+.badge-io {
+  color: #fff;
+  background-color: #a9188d;
+}
+
+.badge-ioke {
+  color: #fff;
+  background-color: #078193;
+}
+
+.badge-isabelle {
+  color: #000;
+  background-color: #FEFE00;
+}
+
+.badge-j {
+  color: #000;
+  background-color: #9EEDFF;
+}
+
+.badge-jsoniq {
+  color: #fff;
+  background-color: #40d47e;
+}
+
+.badge-java {
+  color: #fff;
+  background-color: #b07219;
+}
+
+.badge-javascript {
+  color: #000;
+  background-color: #f1e05a;
+}
+
+.badge-jolie {
+  color: #fff;
+  background-color: #843179;
+}
+
+.badge-julia {
+  color: #fff;
+  background-color: #a270ba;
+}
+
+.badge-jupyter-notebook {
+  color: #fff;
+  background-color: #DA5B0B;
+}
+
+.badge-krl {
+  color: #fff;
+  background-color: #28431f;
+}
+
+.badge-kotlin {
+  color: #fff;
+  background-color: #F18E33;
+}
+
+.badge-lfe {
+  color: #fff;
+  background-color: #4C3023;
+}
+
+.badge-llvm {
+  color: #fff;
+  background-color: #185619;
+}
+
+.badge-lolcode {
+  color: #fff;
+  background-color: #cc9900;
+}
+
+.badge-lsl {
+  color: #fff;
+  background-color: #3d9970;
+}
+
+.badge-lasso {
+  color: #fff;
+  background-color: #999999;
+}
+
+.badge-lex {
+  color: #fff;
+  background-color: #DBCA00;
+}
+
+.badge-livescript {
+  color: #fff;
+  background-color: #499886;
+}
+
+.badge-lookml {
+  color: #fff;
+  background-color: #652B81;
+}
+
+.badge-lua {
+  color: #fff;
+  background-color: #000080;
+}
+
+.badge-maxscript {
+  color: #fff;
+  background-color: #00a6a6;
+}
+
+.badge-mql4 {
+  color: #fff;
+  background-color: #62A8D6;
+}
+
+.badge-mql5 {
+  color: #fff;
+  background-color: #4A76B8;
+}
+
+.badge-mtml {
+  color: #000;
+  background-color: #b7e1f4;
+}
+
+.badge-makefile {
+  color: #fff;
+  background-color: #427819;
+}
+
+.badge-mask {
+  color: #fff;
+  background-color: #f97732;
+}
+
+.badge-matlab {
+  color: #fff;
+  background-color: #e16737;
+}
+
+.badge-max {
+  color: #fff;
+  background-color: #c4a79c;
+}
+
+.badge-mercury {
+  color: #fff;
+  background-color: #ff2b2b;
+}
+
+.badge-meson {
+  color: #fff;
+  background-color: #007800;
+}
+
+.badge-metal {
+  color: #fff;
+  background-color: #8f14e9;
+}
+
+.badge-mirah {
+  color: #fff;
+  background-color: #c7a938;
+}
+
+.badge-ncl {
+  color: #fff;
+  background-color: #28431f;
+}
+
+.badge-nearley {
+  color: #fff;
+  background-color: #990000;
+}
+
+.badge-nemerle {
+  color: #fff;
+  background-color: #3d3c6e;
+}
+
+.badge-netlinx {
+  color: #fff;
+  background-color: #0aa0ff;
+}
+
+.badge-netlinxpluserb {
+  color: #fff;
+  background-color: #747faa;
+}
+
+.badge-netlogo {
+  color: #fff;
+  background-color: #ff6375;
+}
+
+.badge-newlisp {
+  color: #fff;
+  background-color: #87AED7;
+}
+
+.badge-nextflow {
+  color: #fff;
+  background-color: #3ac486;
+}
+
+.badge-nim {
+  color: #fff;
+  background-color: #37775b;
+}
+
+.badge-nit {
+  color: #fff;
+  background-color: #009917;
+}
+
+.badge-nix {
+  color: #fff;
+  background-color: #7e7eff;
+}
+
+.badge-nu {
+  color: #000;
+  background-color: #c9df40;
+}
+
+.badge-ocaml {
+  color: #fff;
+  background-color: #3be133;
+}
+
+.badge-objective-c {
+  color: #fff;
+  background-color: #438eff;
+}
+
+.badge-objective-cplusplus {
+  color: #fff;
+  background-color: #6866fb;
+}
+
+.badge-objective-j {
+  color: #fff;
+  background-color: #ff0c5a;
+}
+
+.badge-omgrofl {
+  color: #000;
+  background-color: #cabbff;
+}
+
+.badge-opal {
+  color: #000;
+  background-color: #f7ede0;
+}
+
+.badge-oxygene {
+  color: #000;
+  background-color: #cdd0e3;
+}
+
+.badge-oz {
+  color: #000;
+  background-color: #fab738;
+}
+
+.badge-p4 {
+  color: #fff;
+  background-color: #7055b5;
+}
+
+.badge-pawn {
+  color: #fff;
+  background-color: #dbb284;
+}
+
+.badge-php {
+  color: #fff;
+  background-color: #4F5D95;
+}
+
+.badge-plsql {
+  color: #000;
+  background-color: #dad8d8;
+}
+
+.badge-pan {
+  color: #fff;
+  background-color: #cc0000;
+}
+
+.badge-papyrus {
+  color: #fff;
+  background-color: #6600cc;
+}
+
+.badge-parrot {
+  color: #000;
+  background-color: #f3ca0a;
+}
+
+.badge-pascal {
+  color: #000;
+  background-color: #E3F171;
+}
+
+.badge-pep8 {
+  color: #fff;
+  background-color: #C76F5B;
+}
+
+.badge-perl {
+  color: #fff;
+  background-color: #0298c3;
+}
+
+.badge-perl-6 {
+  color: #fff;
+  background-color: #0000fb;
+}
+
+.badge-piglatin {
+  color: #000;
+  background-color: #fcd7de;
+}
+
+.badge-pike {
+  color: #fff;
+  background-color: #005390;
+}
+
+.badge-pogoscript {
+  color: #fff;
+  background-color: #d80074;
+}
+
+.badge-postscript {
+  color: #fff;
+  background-color: #da291c;
+}
+
+.badge-powerbuilder {
+  color: #fff;
+  background-color: #8f0f8d;
+}
+
+.badge-powershell {
+  color: #fff;
+  background-color: #012456;
+}
+
+.badge-processing {
+  color: #fff;
+  background-color: #0096D8;
+}
+
+.badge-prolog {
+  color: #fff;
+  background-color: #74283c;
+}
+
+.badge-propeller-spin {
+  color: #fff;
+  background-color: #7fa2a7;
+}
+
+.badge-puppet {
+  color: #fff;
+  background-color: #302B6D;
+}
+
+.badge-purebasic {
+  color: #fff;
+  background-color: #5a6986;
+}
+
+.badge-purescript {
+  color: #fff;
+  background-color: #1D222D;
+}
+
+.badge-python {
+  color: #fff;
+  background-color: #3572A5;
+}
+
+.badge-qml {
+  color: #fff;
+  background-color: #44a51c;
+}
+
+.badge-r {
+  color: #fff;
+  background-color: #198CE7;
+}
+
+.badge-raml {
+  color: #000;
+  background-color: #77d9fb;
+}
+
+.badge-runoff {
+  color: #fff;
+  background-color: #665a4e;
+}
+
+.badge-racket {
+  color: #fff;
+  background-color: #22228f;
+}
+
+.badge-ragel {
+  color: #fff;
+  background-color: #9d5200;
+}
+
+.badge-rascal {
+  color: #000;
+  background-color: #fffaa0;
+}
+
+.badge-rebol {
+  color: #fff;
+  background-color: #358a5b;
+}
+
+.badge-red {
+  color: #fff;
+  background-color: #f50000;
+}
+
+.badge-renpy {
+  color: #fff;
+  background-color: #ff7f7f;
+}
+
+.badge-ring {
+  color: #fff;
+  background-color: #0e60e3;
+}
+
+.badge-roff {
+  color: #000;
+  background-color: #ecdebe;
+}
+
+.badge-rouge {
+  color: #fff;
+  background-color: #cc0088;
+}
+
+.badge-ruby {
+  color: #fff;
+  background-color: #701516;
+}
+
+.badge-rust {
+  color: #fff;
+  background-color: #dea584;
+}
+
+.badge-sas {
+  color: #fff;
+  background-color: #B34936;
+}
+
+.badge-sqf {
+  color: #fff;
+  background-color: #3F3F3F;
+}
+
+.badge-srecode-template {
+  color: #fff;
+  background-color: #348a34;
+}
+
+.badge-saltstack {
+  color: #fff;
+  background-color: #646464;
+}
+
+.badge-scala {
+  color: #fff;
+  background-color: #c22d40;
+}
+
+.badge-scheme {
+  color: #fff;
+  background-color: #1e4aec;
+}
+
+.badge-self {
+  color: #fff;
+  background-color: #0579aa;
+}
+
+.badge-shell {
+  color: #fff;
+  background-color: #89e051;
+}
+
+.badge-shen {
+  color: #fff;
+  background-color: #120F14;
+}
+
+.badge-slash {
+  color: #fff;
+  background-color: #007eff;
+}
+
+.badge-smalltalk {
+  color: #fff;
+  background-color: #596706;
+}
+
+.badge-solidity {
+  color: #fff;
+  background-color: #AA6746;
+}
+
+.badge-sourcepawn {
+  color: #fff;
+  background-color: #5c7611;
+}
+
+.badge-squirrel {
+  color: #fff;
+  background-color: #800000;
+}
+
+.badge-stan {
+  color: #fff;
+  background-color: #b2011d;
+}
+
+.badge-standard-ml {
+  color: #fff;
+  background-color: #dc566d;
+}
+
+.badge-supercollider {
+  color: #fff;
+  background-color: #46390b;
+}
+
+.badge-swift {
+  color: #fff;
+  background-color: #ffac45;
+}
+
+.badge-systemverilog {
+  color: #000;
+  background-color: #DAE1C2;
+}
+
+.badge-ti-program {
+  color: #fff;
+  background-color: #A0AA87;
+}
+
+.badge-tcl {
+  color: #000;
+  background-color: #e4cc98;
+}
+
+.badge-tex {
+  color: #fff;
+  background-color: #3D6117;
+}
+
+.badge-terra {
+  color: #fff;
+  background-color: #00004c;
+}
+
+.badge-turing {
+  color: #fff;
+  background-color: #cf142b;
+}
+
+.badge-typescript {
+  color: #fff;
+  background-color: #2b7489;
+}
+
+.badge-unrealscript {
+  color: #fff;
+  background-color: #a54c4d;
+}
+
+.badge-vcl {
+  color: #fff;
+  background-color: #0298c3;
+}
+
+.badge-vhdl {
+  color: #fff;
+  background-color: #adb2cb;
+}
+
+.badge-vala {
+  color: #000;
+  background-color: #fbe5cd;
+}
+
+.badge-verilog {
+  color: #000;
+  background-color: #b2b7f8;
+}
+
+.badge-vim-script {
+  color: #fff;
+  background-color: #199f4b;
+}
+
+.badge-visual-basic {
+  color: #fff;
+  background-color: #945db7;
+}
+
+.badge-volt {
+  color: #fff;
+  background-color: #1F1F1F;
+}
+
+.badge-vue {
+  color: #fff;
+  background-color: #2c3e50;
+}
+
+.badge-webassembly {
+  color: #fff;
+  background-color: #04133b;
+}
+
+.badge-x10 {
+  color: #fff;
+  background-color: #4B6BEF;
+}
+
+.badge-xc {
+  color: #fff;
+  background-color: #99DA07;
+}
+
+.badge-xquery {
+  color: #fff;
+  background-color: #5232e7;
+}
+
+.badge-xslt {
+  color: #fff;
+  background-color: #EB8CEB;
+}
+
+.badge-yacc {
+  color: #fff;
+  background-color: #4B6C4B;
+}
+
+.badge-zephir {
+  color: #fff;
+  background-color: #118f9e;
+}
+
+.badge-ec {
+  color: #fff;
+  background-color: #913960;
+}
+
+.badge-nesc {
+  color: #fff;
+  background-color: #94B0C7;
+}
+
+.badge-ooc {
+  color: #fff;
+  background-color: #b0b77e;
+}
+
+.badge-wdl {
+  color: #000;
+  background-color: #42f1f4;
+}
+
+.badge-wisp {
+  color: #fff;
+  background-color: #7582D1;
+}
+
+.badge-xbase {
+  color: #fff;
+  background-color: #403a40;
+}
+
