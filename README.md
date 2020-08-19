@@ -15,4 +15,4 @@ Having tried Kotlin once, you will never be the same
 - <a href="https://t.me/y9san9"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram</a>
 ## Support
 - <a href="https://ko-fi.com/y9san9"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded.png" width=16 height=16/> Kofi</a>
-- <img src="https://lh3.googleusercontent.com/proxy/pGTG3mSMAZak5kdG7s20i7QkoLhWbFEj45MPLWnCizY4p0bRvf2WHVL-4nKTPYaG7nUzqk0p2-BaYF5PYrcNaEK0" width=16 height=16/> Card [SBERBANK] `4817 7602 1444 5169`
+- <img src="https://www.sberbank.ru/portalserver/static/templates/%5BBBHOST%5D/RuMasterpageTemplate/icon200.png" width=16 height=16/> Card [SBERBANK] `4817 7602 1444 5169`
