@@ -5,6 +5,8 @@ Welcome to **kotlin** developer page <br><br>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square) 
 ![Nim](https://img.shields.io/badge/-Nim-%23e9c241?logo=nim&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/-Rust-red?logo=rust&logoColor=white&style=flat-square) 
+![Ruby](https://img.shields.io/badge/-Ruby-910916?logo=ruby&logoColor=white&style=flat-square) 
+![Go](https://img.shields.io/badge/-Go-00add8?logo=go&logoColor=white&style=flat-square) 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
 ![C#](https://img.shields.io/badge/-C%2B%2B%2FC%23%2FC-%230174b8?style=flat-square) 
