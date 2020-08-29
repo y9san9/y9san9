@@ -7,10 +7,13 @@ Welcome to **kotlin** developer page <br><br>
 ![Rust](https://img.shields.io/badge/-Rust-red?logo=rust&logoColor=white&style=flat-square) 
 ![Ruby](https://img.shields.io/badge/-Ruby-910916?logo=ruby&logoColor=white&style=flat-square) 
 ![Go](https://img.shields.io/badge/-Go-00add8?logo=go&logoColor=white&style=flat-square) 
+![Scala](https://img.shields.io/badge/-Scala-ff0000?logo=scala&logoColor=white&style=flat-square) 
+![Haskell](https://img.shields.io/badge/-Haskell-5d5086?logo=haskell&logoColor=white&style=flat-square) 
+![Lua](https://img.shields.io/badge/-Lua-000081?logo=lua&logoColor=white&style=flat-square) 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
 ![C#](https://img.shields.io/badge/-C%2B%2B%2FC%23%2FC-%230174b8?style=flat-square) 
-![HTML](https://img.shields.io/badge/-android-green?logo=android&logoColor=white&style=flat-square) 
+![Android](https://img.shields.io/badge/-android-green?logo=android&logoColor=white&style=flat-square) 
 ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square) <br><br>
 **I LOVE KOTLIN ❤️** <br>
 Having tried Kotlin once, you will never be the same
