@@ -1,7 +1,11 @@
 ![Profile views](https://gpvc.arturio.dev/y9san9)<br><br>
 
 Welcome to ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square) developer page <br><br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=y9san9)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=y9san9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![madhunimmo](https://github-readme-stats.vercel.app/api?username=y9san9&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+[![madhunimmo](https://github-readme-stats.vercel.app/api/top-langs?username=y9san9&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 ⭐ Please, give a star to my [new project](https://github.com/y9san9/prizebot)
 
