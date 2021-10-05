@@ -24,9 +24,9 @@ val y9san9 by developer {
             since = 2019.year
         }
         languages(
-            Kotlin[prod], Haskell[pet], Scala[pet], 
-            Rust[pet], Swift[pet], (JS + NodeJS)[prod], 
-            Java[prod], Python[prod], Go[pet]
+            Kotlin.Prod, Haskell.Pet, Scala.Pet, 
+            Rust.Pet, Swift.Pet, (JS + NodeJS).Prod, 
+            Java.Prod, Python.Prod, Go.Pet
         )
     }
 
