@@ -5,30 +5,6 @@ val y9san9 by developer {
     fullName = "Alexander Sokolinskiy"
     displayName = "Alex Sokol"
     age = 0x11
-    
-    hardSkills {
-        install(Android) {
-            since = 2018.year
-        }
-        install(TelegramBots) {
-            since = 2018.year
-        }
-        install(Backend) {
-            since = 2020.year
-        }
-        install(Multiplatform) {
-            since = 2020.year
-        }
-        install(Frontend) {
-            petOnly()
-            since = 2019.year
-        }
-        languages(
-            Kotlin.Prod, Haskell.Pet, Scala.Pet, 
-            Rust.Pet, Swift.Pet, (JS + NodeJS).Prod, 
-            Java.Prod, Python.Prod, Go.Pet
-        )
-    }
 
     contacts {
         telegram(username = "@y9san9")
