@@ -3,7 +3,7 @@
 ```kotlin
 val y9san9 by developer {
     fullName = "Alexander Sokolinskiy"
-    displayName = "Alex Sokol"
+    displayName = "Aλex Sokol"
     age = 0x11
 
     contacts {
