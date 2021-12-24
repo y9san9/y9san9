@@ -4,7 +4,7 @@
 val y9san9 by developer {
     fullName = "Alexander Sokolinskiy"
     displayName = "Aλex Sokol"
-    age = 0x11
+    age = 0x12
 
     contacts {
         telegram(username = "@y9san9")
