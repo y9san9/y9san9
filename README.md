@@ -16,3 +16,8 @@ val y9san9 by developer {
 
 ## Contact me
 - <a href="https://t.me/y9san9"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram</a>
+
+## About
+
+More information about me and my skills you can find [here](https://t.me/alexmeta/16/)
+
